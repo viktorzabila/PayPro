@@ -26,7 +26,7 @@ const ProductPage = () => {
               <p>Product description</p>
             </div>
             <div>
-              <a href="#">Auto-renewal</a>
+              <a href="/">Auto-renewal</a>
             </div>
           </div>
         </div>
